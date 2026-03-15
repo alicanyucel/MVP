@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MVP/MVP.Application/MVP.Application.csproj" />
+  <Project Path="MVP/MVP.Domain/MVP.Domain.csproj" />
+  <Project Path="MVP/MVP.Infrastructure/MVP.Infrastructure.csproj" />
+  <Project Path="MVP/MVP.WebAPI/MVP.WebAPI.csproj" />
+</Solution>
